@@ -62,7 +62,7 @@
 .hero{
   width: 100%;
   height: 100dvh;
-  background:url("../img/photo01.jpg")center center no-repeat;
+  background: url("../img/photo01.jpg") center center no-repeat;
   background-size: cover;
 }
 
@@ -138,7 +138,7 @@
 
     .column-right{
       width: 50%;
-      padding: 91px;
+      padding-left: 91px;
     }
   }
 
@@ -207,17 +207,17 @@
   }
 
   &-img2{
-    background-color: url(../img/photo07.jpg)center center no-repeat;
+    background: url(../img/photo07.jpg)center center no-repeat;
     background-size: cover;
   }
 
   &-img3{
-    background-color: url(../img/photo06.jpg)center center no-repeat;
+    background: url(../img/photo06.jpg)center center no-repeat;
     background-size: cover;
   }
 
-  &img4{
-    background-color: url(../img/photo08.jpg)center center no-repeat;
+  &-img4{
+    background: url(../img/photo08.jpg)center center no-repeat;
     background-size: cover;
   }
 }

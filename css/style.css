@@ -33,8 +33,8 @@ li {
   padding: 200px 0;
 }
 
-.concept-conteiner {
-  min-width: 1080px;
+.contents-container {
+  max-width: 1080px;
   margin: 0 auto;
 }
 
@@ -312,7 +312,7 @@ li {
 }
 .concept-second .column-right {
   width: 50%;
-  padding: 91px;
+  padding-left: 91px;
 }
 .concept-content__head {
   margin-bottom: 24px;
@@ -365,15 +365,15 @@ li {
   background-size: cover;
 }
 .works-img2 {
-  background-color: url(../img/photo07.jpg) center center no-repeat;
+  background: url(../img/photo07.jpg) center center no-repeat;
   background-size: cover;
 }
 .works-img3 {
-  background-color: url(../img/photo06.jpg) center center no-repeat;
+  background: url(../img/photo06.jpg) center center no-repeat;
   background-size: cover;
 }
-.worksimg4 {
-  background-color: url(../img/photo08.jpg) center center no-repeat;
+.works-img4 {
+  background: url(../img/photo08.jpg) center center no-repeat;
   background-size: cover;
 }
 
